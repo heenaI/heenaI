@@ -48,7 +48,7 @@ on **Pya**, a smart task scheduler app designed to help busy families manage lif
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](www.linkedin.com/in/hina-imran)  
-- 📝 Portfolio: https://hinaimran.com/ 
+- 📝 Portfolio: coming soon 
 ---
 
 _“Building smart things for the people I love — and helping others do the same.”_
